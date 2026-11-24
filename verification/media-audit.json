@@ -1,0 +1,86 @@
+[
+  {
+    "file": "images/deidentification/De-Identification - 1.mp4",
+    "width": 1500,
+    "height": 1270,
+    "fps": 25.0,
+    "frames": 114,
+    "bytes": 2795413,
+    "sha256": "bce3ca9d38977a9befc91041a92024ae67d9dbce2c75edee230f66ed6a640053",
+    "decode": "pass",
+    "original_sha256": "9e99c5e1a4a199106a8809aa16ab4344e681498b9dde1db826b6f4b2aaff8c29",
+    "byte_identical_to_original": false
+  },
+  {
+    "file": "images/deidentification/De-Identification - 2.mp4",
+    "width": 1500,
+    "height": 1270,
+    "fps": 25.0,
+    "frames": 175,
+    "bytes": 1160974,
+    "sha256": "6e6044eb8c7803ffb5535a5a6cf09c0f1d22e20b0650f01aecdd2c16f2111734",
+    "decode": "pass",
+    "original_sha256": "43e857baa4a5c2c147c36df71e5a1ddddf1bca66345985f2c04bc6782c4da294",
+    "byte_identical_to_original": false
+  },
+  {
+    "file": "images/deidentification/De-Identification - 3.mp4",
+    "width": 1500,
+    "height": 1270,
+    "fps": 25.0,
+    "frames": 106,
+    "bytes": 3006265,
+    "sha256": "32cefb560a9ae8c38feda8866aec2f031b3da183d3d6db2dd31a6a109379a6d3",
+    "decode": "pass",
+    "original_sha256": "3a5ab2c6d0333dcec2c28152ea09e4752719bf123b7a2a782dfeb1a6941793a4",
+    "byte_identical_to_original": false
+  },
+  {
+    "file": "images/valuation/how-it-works/htw-1.mp4",
+    "width": 1000,
+    "height": 1094,
+    "fps": 25.0,
+    "frames": 106,
+    "bytes": 321511,
+    "sha256": "c461d74c146f19061a49b7e38d72e90a618222fb386e6664eef63b3d23c6ee00",
+    "decode": "pass",
+    "original_sha256": "0703ad89a2d26f7367502dca13c0d5e36fc7587e169d8cd1f8a074d52147be1a",
+    "byte_identical_to_original": false
+  },
+  {
+    "file": "images/valuation/how-it-works/htw-2.mp4",
+    "width": 1000,
+    "height": 1094,
+    "fps": 25.0,
+    "frames": 139,
+    "bytes": 170787,
+    "sha256": "b50397fd3f6884615d12cacfb4a8ecea27fedcbf2b901646eb2645d9d92d55b9",
+    "decode": "pass",
+    "original_sha256": "957ec8f3ba10923c54345ca4eaae4b5ef75b8f5f0622887034aff6fe9fdb063e",
+    "byte_identical_to_original": false
+  },
+  {
+    "file": "images/valuation/how-it-works/htw-3.mp4",
+    "width": 1000,
+    "height": 1094,
+    "fps": 25.0,
+    "frames": 89,
+    "bytes": 71813,
+    "sha256": "f832ca1871cbc4aeadc226a484632365795d35f3f443496881938ea9f01dfa2d",
+    "decode": "pass",
+    "original_sha256": "f832ca1871cbc4aeadc226a484632365795d35f3f443496881938ea9f01dfa2d",
+    "byte_identical_to_original": true
+  },
+  {
+    "file": "images/valuation/how-it-works/htw-4.mp4",
+    "width": 1000,
+    "height": 1094,
+    "fps": 25.0,
+    "frames": 78,
+    "bytes": 221630,
+    "sha256": "74d159b0148e5ad41837984245c9c754a295eda17e4a0e68f2d15536a561d65d",
+    "decode": "pass",
+    "original_sha256": "975d12e71bdace39fcbc141649d7ca21caa28f200cdeae6bbd0c710347b86b07",
+    "byte_identical_to_original": false
+  }
+]
